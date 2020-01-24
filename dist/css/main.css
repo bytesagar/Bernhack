@@ -230,18 +230,12 @@ section h1{
   font-size: 25px !important;
 }
 section p{
-  text-align: center;
+  text-align: left;
 }
 
 #feature-1{
-  /* background-color: #D6D5C9;   */
-
-  /* background-color: #FFB236; */
-  /* background-color: #FFD3B3; */
   padding: 10px;
-  /* background-image: url("/images/tourist.png");
-  background-repeat: no-repeat;
-  background-size: inherit; */
+
 }
 
 #feature-2{
@@ -311,5 +305,11 @@ section p{
   transition: -webkit-transform 2s ease;
   transition: transform 2s ease;
   transition: transform 2s ease, -webkit-transform 2s ease;
+}
+
+.ml-5{
+  text-align:center;
+  color: white;
+
 }
 /*# sourceMappingURL=main.css.map */
