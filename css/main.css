@@ -226,8 +226,8 @@
 }
 section h1{
   text-transform: uppercase;
-  text-align: center ;
-  font-size: 25px;
+  text-align: center !important;
+  font-size: 25px !important;
 }
 section p{
   text-align: left;
@@ -312,7 +312,4 @@ section p{
   color: white;
 
 }
-
-
-
 /*# sourceMappingURL=main.css.map */

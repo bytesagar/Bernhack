@@ -34,7 +34,7 @@
 /*============= WAYPOINTS (DON'T CHANGE CSS BELOW) =============*/
 .os-animation{
 	opacity: 0;
-	margin: 0!important;
+	margin: 0;
 	max-width: 100%;
 }
 .os-animation.animated {
