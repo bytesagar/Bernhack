@@ -217,12 +217,15 @@
 }
 
 
-
+/* 
 .hero .hero-desc p {
   border-left: 7px solid #f3b2e8;
   padding: 10px;
   line-height: 1.5rem;
   letter-spacing: .1rem;
+} */
+section{
+  overflow-x: hidden;
 }
 section h1{
   text-transform: uppercase;
@@ -231,6 +234,10 @@ section h1{
 }
 section p{
   text-align: left;
+  border-left: 7px solid #f3b2e8;
+  padding: 10px;
+  line-height: 1.5rem;
+  letter-spacing: .1rem;
 }
 
 #feature-1{
