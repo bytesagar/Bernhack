@@ -78,7 +78,7 @@
 
 .navbar.solid,
 .navbar.solid-toggle {
-  background: #659EBC !important;
+  background: rgb(160, 201, 223) !important;
   -webkit-transition: background-color 1s ease;
   transition: background-color 1s ease;
   height: 9vh;
@@ -96,7 +96,7 @@
 } */
 
 .navbar ul li a {
-  color: black;
+  color: rgb(116, 110, 110);
   font-size: 1.5rem;
   margin: 10px;
   -webkit-transition: all .3s eas;
@@ -283,8 +283,9 @@ section p{
 }
 
 #footer-copy{
-  background-color: red;
+  background-color: rgb(243, 232, 232);
   text-align: center;
+  padding: 10px;
 }
 
 
